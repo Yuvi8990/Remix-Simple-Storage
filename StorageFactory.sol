@@ -17,5 +17,5 @@ contract StorageFactory{
 
   function sfGet(uint _simpleStorageIndex) public view returns(uint256){
       return listOfSimpleStorageContracts[_simpleStorageIndex].retrieve();  
-  }
+  } 
 }
