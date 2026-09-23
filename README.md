@@ -1,7 +1,7 @@
 # Solidity Foundations: Storage, Factory, & Inheritance
 
 ## Overview
-This repository contains a collection of foundational smart contracts built and deployed using Remix IDE. Developed as part of a rigorous self-directed study into Web3 architecture, this project demonstrates core EVM state manipulation, cross-contract composability using the Factory Pattern, and function overriding via inheritance.
+This repository contains a collection of foundational smart contracts built and deployed using Remix IDE. Developed as part of a rigorous self-directed study into Web3 architecture, this project demonstrates core EVM state manipulation, cross-contract composability using the Factory Pattern, and function overriding via inheritance.This repository represents the culmination of a week-long foundational study into Solidity, originally built, tested, and iterated upon within the Remix IDE before versioning.
 
 ## Technical Stack
 * **Language:** Solidity (^0.8.34)
